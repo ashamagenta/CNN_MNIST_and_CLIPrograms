@@ -1,4 +1,4 @@
-This project is adopted CNN Keras Model to classify MNIST dataset as well as train and validate it. The trained data is stored on .h5 file. It resulted with 99% accuracy. The trained data will be called on the CLI program to predict external hand-written digit image. In order to run the CLIProgram.py at the same time with the external image, open your terminal (go the directory which contains CLIProgram.py) 
+This project is adopting CNN Keras Model to classify MNIST dataset as well as to train and validate it. The trained data is stored in .h5 file. It resulted with 99% accuracy. The trained data will be called on the CLI program to predict external hand-written digit image. In order to run the CLIProgram.py at the same time with the external image, open your terminal (go the directory which contains CLIProgram.py) 
 
 $ python CLIProgram.py image.png  
 
